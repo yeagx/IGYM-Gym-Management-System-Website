@@ -1,5 +1,4 @@
 # IGym - Gym Management System Website
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/yeagx/IGYM---Group)
 
 This repository contains the source code for the IGym landing page, a modern and responsive website designed to market an all-in-one gym management system. The site showcases the features, pricing, and benefits of the IGym software platform for gym owners, trainers, and trainees.
 
@@ -29,12 +28,12 @@ To view the website locally, follow these simple steps:
 
 1.  **Clone the repository:**
     ```sh
-    git clone https://github.com/yeagx/igym---group.git
+    git clone https://github.com/yeagx/IGYM-Gym-Management-System-Website.git
     ```
 
 2.  **Navigate to the project directory:**
     ```sh
-    cd iIGym - Gym Management System Websitegym---group
+    cd IGYM-Gym-Management-System-Website
     ```
 
 3.  **Open the website:**
